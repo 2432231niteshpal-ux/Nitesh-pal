@@ -49,7 +49,7 @@
 
 ## 📫 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="www.linkedin.com/in/nitesh-pal-649a83324"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter"></a>
   <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=firefox"></a>
 </p>
